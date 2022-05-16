@@ -1,0 +1,8 @@
+Os módulos que vem do Node são conhecidos como:
+Core Modules
+
+O módulo que utilizamos para trabalhar com URLs é o:
+url
+
+Podemos com Node.js encontrar o caminho (path) para algum arquivo do nosso projeto?
+Sim, é possivel com a ajuda do módulo path

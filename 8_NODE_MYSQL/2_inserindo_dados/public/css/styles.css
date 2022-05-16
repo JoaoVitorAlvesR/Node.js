@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.form{
+    width: 450px;
+    margin:0 auto;
+}
+
+.form-control{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: .3em;
+}
+
+.form-control label{
+    display:bold;
+    margin-bottom: 0.3em;
+}
+
+.form-control input{
+    display:bold;
+    margin-bottom: 0.3em;
+}
+
+.form-control input{
+    padding: 5px;
+}
+
+.bottom{
+    text-align: center;
+}
