@@ -1,1 +1,1 @@
-Este repositória foi feito para acompanhamento de um curso de node.
+Este repositório possui informações sobre os modulos do node.js
